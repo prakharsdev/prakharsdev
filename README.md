@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakhar Srivastava
-- 👀 I’m interested in Computer vision and NLP
+- 👀 I’m interested in Computer vision and NLP(Chatbot)
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on anything related to AI
 - 📫 How to reach me https://linktr.ee/PrakharSrivastava
