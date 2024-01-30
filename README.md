@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prakhar Srivastava
-- 👀 I’m interested in NLP and Computer Vision 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on anything related to AI
+- 👀 I’m interested in Data Engineering | Machine Learning 
+- 🌱 I’m currently working as a Data Engineer
+- 💞️ I’m looking to collaborate on anything related to Data Engineering or AI
 - 📫 How to reach me https://linktr.ee/PrakharSrivastava
 
 <!---
